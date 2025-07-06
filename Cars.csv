@@ -1,0 +1,8 @@
+Id,Make,Model,Year,Type,Availability,CustomerName,CustomerID,RentalStartDate,ExpectedReturnDate
+1,Toyota,Corolla,2020,Sedan,Available
+2,Ford,Focus,2019,Hatchback,Rented
+3,Honda,Civic,2021,Sedan,Available
+4, go, mu,23, fu, y
+12,si,si,23,s,y
+5,si,gi,34,d,n
+5, ko, ko,45, k, y
